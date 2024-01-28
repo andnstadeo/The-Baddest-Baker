@@ -1,0 +1,154 @@
+Needed to change:
+
+Header
+~ menu.html
+~ order.html
+~ contacts.html
+
+Body
+~ top (make the arrow functioning)
+~ treats (change pic)
+~ gallery (make view all functioning)
+~ about (change lorem)
+~ get in touch (change the text section)
+~ bottom (make it functioning)
+
+
+For polish:
+Color bg
+Font Color
+Make the buttons functioning
+
+COLOR:
+#CBE4E2
+#FDD2BF
+#d3d8d8
+#7c3501
+
+
+PRICES:
+Mango Bravo 
+500 - 8x4
+750 - 9x4
+1000 - 9x5 (free cupcakes ‘6)
+
+Strawberry 
+600 -  8x4
+800 - 9x4
+1000 - 9x5 (free cupcakes ‘6)
+
+Ube Macapuno
+600 - 8x4
+800 - 9x4
+1000 - 9x5 (free cupcakes ‘6)
+
+Sansrival 
+600 - 8x4
+800 - 9x4
+1,050 - 9x5 (free cupcakes ‘6)
+
+Blueberry Lemon Curd 
+650 - 8x4
+850 - 9x4
+1,100 - 9x5 (free cupcakes ‘6)
+
+Rectangle Sizes and Prices (8x12x2.5)
+Mango Bravo - 1000 w/free 6 cupcakes 
+Ube Macapuno- 1000 w/free 6 cupcakes 
+Strawberry- 1,150 w/free 6 cupcakes 
+Sansrival - 1,150 w/free 6 cupcakes 
+Blueberry Lemon Curd - 1, 250 w/free 6 cupcakes 
+
+2 Flavors in one Box (8x12x2.5) free 6 cupcakes 
+Mango and Ube Macapuno - 1,100
+Mango and Strawberry - 1,200
+Mango and Blueberry Lemon Curd- 1,250
+Mango and Sansrival - 1,250
+(Customize your flavors)
+
+Mini Cake 6x3
+Mango Bravo - 350
+Chocolate Moist Oreo Cake - 400
+Strawberry Chocolate Moist Oreo Cake - 400
+Strawberry - 400
+Blueberry Lemon Curd - 400
+Ube Macapuno - 400
+Sansrival- 400
+
+Bento Cake 4x2.5
+Mango Bravo - 200
+Sansrival- 200
+Chocolate Moist Oreo - 200
+Cheesy Ube - 200
+Strawberry Chocolate Moist Oreo - 200
+Strawberry - 200
+Ube Macapuno - 200
+Blueberry Lemon Curd - 200
+Strawberry Shortcake - 200
+Customized Bento Cake - 200
+
+Moist Cakes
+6x3 Chocolate Moist Cake - 350
+8x4 Chocolate Moist Cake - 500
+6x3 Chocolate Moist Oreo Cake - 400
+8x4 Chocolate Moist Oreo Cake - 550
+6x3 Strawberry Chocolate Moist Oreo Cake - 450
+8x4 Strawberry Chocolate Moist Oreo Cake - 550
+
+8x12x2.5 Chocolate Moist Cake - 900
+8x12x2.5 Chocolate Moist Oreo Cake - 1,000
+
+
+Cupcakes
+Bento Cupcakes 
+90 - (3 Mango)
+90 - (3 Strawberry)
+110 - ( 1 Mango, 1 Strawberry, 1 Blueberry)
+120 - ( 3 Blueberry)
+
+(Mango, Strawberry)
+150 - Box of 6
+300 - 1 dozen
+
+(Blueberry)
+200 - Box of 6
+350 - 1 dozen
+
+Assorted Flavors box of 6 (set 1)
+150 - (3 strawberry, 3 mango)
+150 - 6 Mango
+150 - 6 Strawberry 
+
+Assorted Flavors box of 6 (set 2)
+200 - (2 Mango, 2 Strawberry, 2, Blueberry)
+
+Assorted Flavors box of 6 (set 3
+200 - (3 Strawberry, 3 Blueberry)
+
+Assorted Flavors 1 Dozen (set 1)
+300 - (6 strawberry, 6 mango)
+
+Assorted Flavors 1 Dozen (set 2)
+350 - (4 Mango, 4 Strawberry, 4 Blueberry)
+
+Assorted Flavors box of 6 (set 3)
+400 - (6 Strawberry, 6 Blueberry)
+
+Assorted Flavors box of 1 Dozen (set 4)
+400 - ( 4 flavors Chocolate, Blueberry, Strawberry, Mango)
+
+Customized Cake
+*Price varies depends on the Flavor inside the cake
+*Price varies depends on the design of the cake 
+
+Fondant Cake
+*price varies on the size and designs of the cake 
+
+NEWLY RELEASED PRODUCTS 
+CREAM CHEESE ENSAYMADA 
+6 pcs - 120
+1 Dozen - 240
+
+Chocolate Moist Cake in Tub
+1 Tub - 130
+2 Tubs - 250
